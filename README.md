@@ -12,6 +12,7 @@
 | http://www.music-ir.org/evaluation/ |
 | https://processing.org/reference/libraries/sound/ |
 | https://en.wikipedia.org/wiki/Sampling_(signal_processing) |
+| https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/ |
 
 | MIR audio voice analysis|
 |----------|
