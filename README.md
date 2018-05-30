@@ -24,6 +24,7 @@
 | https://librosa.github.io/librosa/index.html |
 | https://librosa.github.io/librosa/tutorial.html |
 | http://www.fftw.org/ |
+| http://web.mit.edu/music21/ |
 
 | Auto-Tagging algorithm |
 |----------|
