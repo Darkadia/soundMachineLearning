@@ -24,7 +24,6 @@
 | https://librosa.github.io/librosa/index.html |
 | https://librosa.github.io/librosa/tutorial.html |
 | http://www.fftw.org/ |
-| https://e5.onthehub.com/WebStore/Account/OrderDetails.aspx?o=f06f9a81-a5b9-e711-80f7-000d3af41938&ws=8acec61b-7e41-de11-b696-0030485a8df0 |
 
 | Auto-Tagging algorithm |
 |----------|
