@@ -25,6 +25,7 @@
 | https://librosa.github.io/librosa/tutorial.html |
 | http://www.fftw.org/ |
 | http://web.mit.edu/music21/ |
+| http://craffel.github.io/mir_eval/ |
 
 | Auto-Tagging algorithm |
 |----------|
